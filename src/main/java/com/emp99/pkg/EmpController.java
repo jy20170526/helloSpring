@@ -59,3 +59,4 @@ public class EmpController {
         return "redirect:/viewemp";    
     }     
 }  
+
