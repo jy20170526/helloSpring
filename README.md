@@ -16,3 +16,6 @@
 
 <img width="468" alt="스크린샷 2020-01-17 오후 12 47 13" src="https://user-images.githubusercontent.com/47997297/72582881-8e2c5800-3927-11ea-812c-66b53664f059.png">
 
+### 2. Spring + MyBatis + MySQL result
+
+<img width="1024" alt="스크린샷 2020-01-17 오후 3 49 20" src="https://user-images.githubusercontent.com/47997297/72590467-14a16380-3941-11ea-918c-caf79761e576.png">
